@@ -1,2 +1,5 @@
-# https-jamirali.github.io
-Now you will get the PW batch for free.
+# Jamir Study Hub
+
+This website is created for learning web development.
+
+No paid or copyrighted content is shared here.
